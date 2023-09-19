@@ -1,0 +1,6 @@
+Arrays
+
+structures
+Linked list
+HAsh maps
+Graphs
